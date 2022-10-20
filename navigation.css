@@ -1,0 +1,17 @@
+*{
+	margin: 0%;
+ }
+.navigation{
+	background-color: pink;
+	display: flex;
+	justify-content: space-evenly;
+}
+.navigation a{
+	color: white;
+	font-size: 50px;
+	text-decoration: none;
+	padding: 1.8%;
+}
+.navigation a:hover{
+	background-color: red;
+}
